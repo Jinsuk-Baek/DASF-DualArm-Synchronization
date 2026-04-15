@@ -1,6 +1,3 @@
-# DASF-DualArm-Synchronization
-Dual-arm synchronization framework (TLS+MLS) for robust coordination under timing uncertainty.
-
 # Dual-Arm Synchronization Framework (DASF)
 
 This repository contains the implementation of synchronization methods evaluated in the paper on dual-arm robotic coordination under timing uncertainty.
