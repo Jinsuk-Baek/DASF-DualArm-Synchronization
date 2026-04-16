@@ -10,9 +10,9 @@ The repository provides five execution models with increasing levels of coordina
 - **Timestamp-based:** Time-driven synchronization using a shared global timestamp  
 - **Event-based:** Event-driven synchronization using thread signaling  
 - **TLS:** Task-Level Synchronization using barrier-based coordination  
-- **TLS+MLS:** Proposed method combining task-level synchronization and motion-level adaptive compensation  
+- **TLS+MLS:** Proposed method combining phase-level synchronization and feedback-based execution-level compensation  
 
-Each script executes the same multi-phase task sequence and logs synchronization performance metrics.
+Each script executes the same multi-phase task sequence and logs synchronization performance metrics, including dispatch gap and finish gap.
 
 ---
 
